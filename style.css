@@ -1,0 +1,70 @@
+/*hide the scroll bar*/
+html{
+	overflow: hidden;
+}
+
+body{
+	background-color: #000000;
+}
+
+/*links*/
+a{
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+.background{
+	width: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: -50;
+}
+
+/****************nav bar****************/
+	/*general positiong of entire nav bar*/
+	#navig{
+	    text-align: justify;
+	    letter-spacing: 1px;
+	    padding: 3em 18%;
+	}
+
+	/*position the elements side by side, center it for small screens*/
+	#name, #nav_buttons{
+		display: inline-block;
+		text-align: center;
+		font-weight: bold;
+		font-family: "Segoe UI";
+	}
+
+	/*places a '' after the header.  Divides the
+	  body so nav can justify across the screen*/
+	header::after{
+	    content: '';
+	    display: inline-block;
+	    width: 100%;
+	}
+
+	/*offset of tops are 30px*/
+	#first{
+		font-size: 51px;
+		letter-spacing: 3px;
+	}
+	#last{
+		font-size: 28px;
+		letter-spacing: 2px;
+		margin: -20px 0 0 0;
+	}
+	#nav_buttons{
+		font-family: "Segoe UI";
+		font-size: 28px;
+		word-spacing: 7px;
+	}
+
+	/*alter screen for vertical screens*/
+	@media screen and (max-width: 846px){
+		#navig{
+		    text-align: center;
+		}
+	}
+/*******************end nav bar**************/
