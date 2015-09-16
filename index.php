@@ -70,24 +70,30 @@
 	    
 	    <div id="section-container">
 	    	<div id="about">
+	    		
+	    		<div class="pic">
+	    			<img src="pic.png" style="width: 25%; height: 25%"/>
+	    		</div>
 				
-				I'm a recently employed software professional who recently moved to Boston from LA.
-				</br> 
-				Hoping that by taking DWA I can improve my software skills and make myself more marketable.
-				</br> 
-				I started programming five years ago when I started my Bachelor's degree making primarily stand alone scripts and microprocessor programs.
-				</br> 
-				I'm working on a PC
+				<ul>
+					<li>I'm a software engineer who recently moved to Boston from LA.  Currently working in Back Bay in my first job out of college.</li>
+					</br> 
+					<li>Taking DWA to improve my software skills web development skills.</li>
+					</br> 
+					<li>I started programming five years ago when I started my Bachelor's degree working primarily with microcontrollers.</li>
+					</br> 
+					<li>I'm working on a PC</li>
+				</ul>
 				
 			</div>
 			
 			<div id="projects">
 				
-				<div class="proj2_txt"> &nbsp; P2: &nbsp; &nbsp; &nbsp; To be filled </div>
+				<div class="proj2_html"><a href = "p2.html">P2</a> <a href = "p2Git.html"><i class="fa fa-github" style="font-size: 50px"></i> </a> </div>
 					
-				<div class="proj3_txt"> &nbsp; P3: &nbsp; &nbsp; &nbsp; To be filled </div>
+				<div class="proj3_html"><a href = "p3.html">P3</a> <a href = "p3Git.html"><i class="fa fa-github" style="font-size: 50px"></i> </a> </div>
 					
-				<div class="proj4_txt"> &nbsp; P4: &nbsp; &nbsp; &nbsp; To be filled </div>
+				<div class="proj4_html"><a href = "p4.html">P4</a> <a href = "p4Git.html"><i class="fa fa-github" style="font-size: 50px"></i> </a> </div>
 				
 			</div>
 			
