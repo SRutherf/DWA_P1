@@ -82,7 +82,9 @@
 					</br> 
 					<li>I started programming five years ago when I started my Bachelor's degree working primarily with microcontrollers.</li>
 					</br> 
-					<li>I'm working on a PC</li>
+					<li>I'm working on a PC.</li>
+					</br> 
+					<li>Class starts 30 minutes after I leave work so I may be late at times.</li>
 				</ul>
 				
 			</div>
