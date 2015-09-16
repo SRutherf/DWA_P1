@@ -81,6 +81,7 @@ a{
 }
 
 /*Use absolute position to avoid elements being below others during a fade*/
+/*nested divs need repeated attributes so that parents don't affect other children*/
 #about{
 	width: 100%;
 	z-index: 1;
