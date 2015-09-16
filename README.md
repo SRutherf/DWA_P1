@@ -1,7 +1,7 @@
 # DWA_P1
 
 ##Live URL
-<http://p1.srutherf.me/index.php>
+<http://p1.srutherf.me/>
 
 ##Description
 Project 1 for DWA15 at the Harvard Extension School.  Contains info about me, links to future projects, and a contact page.
