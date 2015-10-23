@@ -91,11 +91,11 @@
 			
 			<div id="projects">
 				
-				<div class="proj2_html"><a href = "p2.srutherf.me">P2</a> <a href = "p2Git.html"><i class="fa fa-github" style="font-size: 50px"></i> </a> </div>
+				<div class="proj2_html"><a href = "http://p2.srutherf.me">P2</a> <a href = "https://github.com/SRutherf/DWA_P2"><i class="fa fa-github" style="font-size: 50px"></i> </a> </div>
 					
-				<div class="proj3_html"><a href = "p3.srutherf.me">P3</a> <a href = "p3Git.html"><i class="fa fa-github" style="font-size: 50px"></i> </a> </div>
+				<div class="proj3_html"><a href = "http://p3.srutherf.me">P3</a> <a href = "https://github.com/SRutherf/DWA_P3"><i class="fa fa-github" style="font-size: 50px"></i> </a> </div>
 					
-				<div class="proj4_html"><a href = "p4.srutherf.me">P4</a> <a href = "p4Git.html"><i class="fa fa-github" style="font-size: 50px"></i> </a> </div>
+				<div class="proj4_html"><a href = "http://p4.srutherf.me">P4</a> <a href = "https://github.com/SRutherf/DWA_P4"><i class="fa fa-github" style="font-size: 50px"></i> </a> </div>
 				
 			</div>
 			
